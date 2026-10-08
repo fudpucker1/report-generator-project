@@ -1,0 +1,14 @@
+============================== Overall Stats ============================== 
+ 
+Total Flights Flown: 54 
+Total Hours Flown: 170.1 
+Total Fuel Used: 333341.0 
+Average Mission Duration: 3.15 
+
+============================== Mission Types ============================== 
+ 
+Combat: 9 
+Patrol: 16 
+Reconnaissance: 9 
+Training: 13 
+Transport: 7 
